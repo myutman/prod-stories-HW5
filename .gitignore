@@ -1,0 +1,6 @@
+**/wandb
+**/.git
+**/.ipynb_checkpoints
+**/__pycache__
+models
+checkpoints

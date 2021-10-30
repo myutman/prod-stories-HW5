@@ -1,0 +1,14 @@
+name: HW5
+channels:
+  - conda-forge
+dependencies:
+  - python=3.7
+  - numpy
+  - scikit-learn
+  - pandas
+  - pytorch
+  - jupyter
+  - jupyterlab
+  - tqdm
+  - wandb
+  - matplotlib
