@@ -38,4 +38,4 @@
 ### Результаты
 * Метрики обучения можно посмотреть здесь: https://wandb.ai/myutman/prod-stories-HW5/runs/1bf05ove?workspace=user-myutman
 * После применения алгоритма AgglomerativeClustering для кластеризации на 5 классов при проекции на 2 принципиальные компоненты, получилась следующая картина:
-![scatter]("https://github.com/myutman/prod-stories-HW5/blob/master/scatter.png")
+![scatter](https://github.com/myutman/prod-stories-HW5/blob/master/scatter.png)
