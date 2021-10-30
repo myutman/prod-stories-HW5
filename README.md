@@ -19,3 +19,9 @@
 <pre>$ jupyter lab metric_learning.ipynb</pre>
 2. Нажимаем Run -> Run All Cells
 Веса обученной сети лежат <a href="https://drive.google.com/drive/folders/1Ff7NHksSPT1GjlVeavdeSyHAwL9X1sGO?usp=sharing">здесь</a>
+### Кластеризация и анализ
+1. Нужно, чтобы веса обученной сети лежали в директории ./checkpoints
+2. Открываем ноутбук <a href="https://github.com/myutman/prod-stories-HW5/blob/master/random_shapes.blend">random_shapes.blend</a>
+3. Нажимаем Run -> Run All Cells
+## Эксперимент
+### Постановка
