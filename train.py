@@ -53,4 +53,6 @@ def train(model, n_epochs, train_df, test_df, batch_size):
         wandb.log({"epoch/train_loss": train_loss, "epoch/valid_loss": test_loss, "epoch/epoch": n_epoch})
         
         if (n_epoch + 1) % 100 == 0:
+            if not os.path.exists("checkpoints"):
+                os.mkdir("checkpoints")
             torch.save(model.state_dict(), f"checkpoints/checkpoint_{model.name()}_epoch={n_epoch}_batch-size={batch_size}.cpkt")
