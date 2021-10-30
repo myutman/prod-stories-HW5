@@ -25,3 +25,6 @@
 3. Нажимаем Run -> Run All Cells
 ## Эксперимент
 ### Постановка
+* Были получены гистограммы для 401 3D-модели
+* 50 записей были отложены в качестве <a href="https://github.com/myutman/prod-stories-HW5/blob/master/dataset/test.tsv">тестового набора</a>
+* Остальные записи были поделены в соотношении 1 к 1 на <a href="https://github.com/myutman/prod-stories-HW5/blob/master/dataset/train.tsv">обучающие данные</a> и <a href="https://github.com/myutman/prod-stories-HW5/blob/master/dataset/valid.tsv">валидационные данные</a>
